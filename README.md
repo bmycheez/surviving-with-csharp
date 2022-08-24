@@ -1,20 +1,26 @@
 # surviving-with-csharp
-self study and coding from Youtube lectures.
+self study and coding from Youtube lectures.  
+The lecturer, Taesung Lee, says that studying C# with [MSDN](https://docs.microsoft.com/ko-kr/) is important.  
 
-[Reference](https://www.youtube.com/playlist?list=PLOKPEzlY4JKQNiHEQ4SDBxAFo9RDod8Tm)
+The lecturer uses VS, but I used VS code only before Windows Programming.  
+[How to install VS code and C# extension](https://clover7-webnote.tistory.com/198)  
 
-|Lecture    |Title   |Exercise|Details |
-|:----------|:-------|:-------|:-------|
-|00-1       |data    |data    |        |
-|01-1       |data    |data    |        |
-|01-2       |data    |data    |        |
-|02-1       |data    |data    |        |
-|02-2       |data    |data    |        |
-|03-1       |data    |data    |        |
-|03-2       |data    |data    |        |
-|03-3       |data    |data    |        |
-|03-4       |data    |data    |        |
-|03-5       |data    |data    |        |
+[Reference](https://www.youtube.com/playlist?list=PLOKPEzlY4JKQNiHEQ4SDBxAFo9RDod8Tm)    
+
+
+# Lecture Table
+|Lecture    |Title                        |Exercise       |Details     |
+|:----------|:----------------------------|:--------------|:-----------|
+|00-1       |Orientation                  |None           |-           |
+|01-1       |.Net Framework and C Language|None           |-           |
+|01-2       |.Net Framework and C Language|None           |-           |
+|02-1       |C# programming               |None           |use VS first|
+|02-2       |C# programming               |Lecture 02-2.cs|-           |
+|03-1       |Data Type                    |data           |-           |
+|03-2       |Data Type                    |data           |-           |
+|03-3       |Data Type                    |data           |-           |
+|03-4       |Data Type                    |data           |-           |
+|03-5       |Data Type                    |data           |-           |
 |04-1       |data    |data    |        |
 |04-2       |data    |data    |        |
 |05-1       |data    |data    |        |
