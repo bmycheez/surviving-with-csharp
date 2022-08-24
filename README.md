@@ -5,7 +5,7 @@ The lecturer, Taesung Lee, says that studying C# with [MSDN](https://docs.micros
 The lecturer uses VS, but I used VS code only before Windows Programming.  
 [How to install VS code and C# extension](https://clover7-webnote.tistory.com/198)  
 
-[Reference](https://www.youtube.com/playlist?list=PLOKPEzlY4JKQNiHEQ4SDBxAFo9RDod8Tm)    
+[Reference (KOR)](https://www.youtube.com/playlist?list=PLOKPEzlY4JKQNiHEQ4SDBxAFo9RDod8Tm)    
 
 
 # Lecture Table
@@ -16,7 +16,7 @@ The lecturer uses VS, but I used VS code only before Windows Programming.
 |01-2       |.Net Framework and C Language|None           |-           |
 |02-1       |C# programming               |None           |use VS first|
 |02-2       |C# programming               |Lecture 02-2.cs|-           |
-|03-1       |Data Type                    |data           |-           |
+|03-1       |Data Type                    |Lecture 03-1.cs|-           |
 |03-2       |Data Type                    |data           |-           |
 |03-3       |Data Type                    |data           |-           |
 |03-4       |Data Type                    |data           |-           |
