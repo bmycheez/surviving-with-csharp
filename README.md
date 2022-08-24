@@ -17,8 +17,8 @@ The lecturer uses VS, but I used VS code only before Windows Programming.
 |02-1       |C# programming               |None           |use VS first|
 |02-2       |C# programming               |Lecture 02-2.cs|-           |
 |03-1       |Data Type                    |Lecture 03-1.cs|-           |
-|03-2       |Data Type                    |data           |-           |
-|03-3       |Data Type                    |data           |-           |
+|03-2       |Data Type                    |Lecture 03-2.cs|-           |
+|03-3       |Data Type                    |Lecture 03-3.cs|-           |
 |03-4       |Data Type                    |data           |-           |
 |03-5       |Data Type                    |data           |-           |
 |04-1       |data    |data    |        |
