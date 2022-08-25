@@ -9,20 +9,20 @@ The lecturer uses VS, but I used VS code only before Windows Programming.
 
 
 # Lecture Table
-|Lecture    |Title                        |Exercise       |Details     |
-|:----------|:----------------------------|:--------------|:-----------|
-|00-1       |Orientation                  |None           |-           |
-|01-1       |.Net Framework and C Language|None           |-           |
-|01-2       |.Net Framework and C Language|None           |-           |
-|02-1       |C# programming               |None           |use VS first|
-|02-2       |C# programming               |Lecture 02-2.cs|-           |
-|03-1       |Data Type                    |Lecture 03-1.cs|-           |
-|03-2       |Data Type                    |Lecture 03-2.cs|-           |
-|03-3       |Data Type                    |Lecture 03-3.cs|-           |
-|03-4       |Data Type                    |Lecture 03-4.cs|-           |
-|03-5       |Data Type                    |Lecture 03-5.cs|-           |
-|04-1       |data    |data    |        |
-|04-2       |data    |data    |        |
+|Lecture    |Title                        |Exercise       |Details        |
+|:----------|:----------------------------|:--------------|:--------------|
+|00-1       |Orientation                  |None           |-              | 
+|01-1       |.Net Framework and C Language|None           |-              |
+|01-2       |.Net Framework and C Language|None           |-              |
+|02-1       |C# programming               |None           |use VS first   |    
+|02-2       |C# programming               |Lecture 02-2.cs|-              |
+|03-1       |Data Type                    |Lecture 03-1.cs|-              |
+|03-2       |Data Type                    |Lecture 03-2.cs|var, nullable  |
+|03-3       |Data Type                    |Lecture 03-3.cs|Boxing, ReadKey|
+|03-4       |Data Type                    |Lecture 03-4.cs|struct         |
+|03-5       |Data Type                    |Lecture 03-5.cs|array          |
+|04-1       |C# Basic                     |Lecture 04-1.cs|operator       |   
+|04-2       |C# Basic                     |Lecture 04-2.cs|-              |
 |05-1       |data    |data    |        |
 |05-2       |data    |data    |        |
 |05-3       |data    |data    |        |
