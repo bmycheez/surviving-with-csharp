@@ -19,8 +19,8 @@ The lecturer uses VS, but I used VS code only before Windows Programming.
 |03-1       |Data Type                    |Lecture 03-1.cs|-           |
 |03-2       |Data Type                    |Lecture 03-2.cs|-           |
 |03-3       |Data Type                    |Lecture 03-3.cs|-           |
-|03-4       |Data Type                    |data           |-           |
-|03-5       |Data Type                    |data           |-           |
+|03-4       |Data Type                    |Lecture 03-4.cs|-           |
+|03-5       |Data Type                    |Lecture 03-5.cs|-           |
 |04-1       |data    |data    |        |
 |04-2       |data    |data    |        |
 |05-1       |data    |data    |        |
