@@ -23,9 +23,9 @@ The lecturer uses VS, but I used VS code only before Windows Programming.
 |03-5       |Data Type                    |Lecture 03-5.cs|array          |
 |04-1       |C# Basic                     |Lecture 04-1.cs|operator       |   
 |04-2       |C# Basic                     |Lecture 04-2.cs|-              |
-|05-1       |data    |data    |        |
-|05-2       |data    |data    |        |
-|05-3       |data    |data    |        |
+|05-1       |Array                        |data           |               |
+|05-2       |Array                        |data           |               |
+|05-3       |Array                        |data           |               |
 |06-1       |data    |data    |        |
 |06-2       |data    |data    |        |
 |06-3       |data    |data    |        |
